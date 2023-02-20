@@ -1,0 +1,26 @@
+
+.father{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  height: 100vh;
+  background-color: rgb(69, 153, 232);
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 200px;
+}
+
+.nButt{
+  height: 30px;
+  width: 100px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
